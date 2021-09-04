@@ -1,0 +1,1 @@
+CONSOLE = "Console/dsp" -- Console interface for demo
